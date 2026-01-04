@@ -1,0 +1,55 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(210, 213, 213);
+
+  position: relative;
+  overflow: hidden;
+}
+.elispe img {
+  height: 100%;
+}
+
+.e1 {
+  height: 600px;
+  position: fixed;
+  bottom: -80px;
+  left: -80px;
+  z-index: 1;
+}
+
+.e2 {
+  height: 400px;
+  position: fixed;
+  top: -60px;
+  right: 0px;
+  z-index: 2;
+}
+.e3 {
+  height: 650px;
+  position: fixed;
+  bottom: -140px;
+  right: 90px;
+  z-index: 3;
+}
+.e4 {
+  height: 550px;
+  position: fixed;
+  bottom: -180px;
+  right: 40%;
+  z-index: 3;
+}
+.e5 {
+  height: 700px;
+  position: fixed;
+  top: -181px;
+
+  z-index: 9;
+}
+.e6 {
+  height: 600px;
+  position: fixed;
+  top: -180px;
+  left: 43%;
+  z-index: 9;
+}
